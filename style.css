@@ -1,4 +1,9 @@
+body {
+  font-family: Verdana, Sans-Serif;
+  background: url();
+}
+
 h1 {
-  font-family: veridana, Arial;
-  color red;
+  font-weight: bold;
+  color black;
 }
