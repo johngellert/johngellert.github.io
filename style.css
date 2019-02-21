@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, Sans-Serif;
-  background: url(paperbackground.png);
+  background-image: url("paperbackground.png");
   background-size: auto;
 }
 
