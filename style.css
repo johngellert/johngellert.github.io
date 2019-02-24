@@ -18,3 +18,8 @@ h1 {
 img {
   float:left
 }
+
+.container {
+  width: 800px;
+	margin: 40px auto 60px;
+}
