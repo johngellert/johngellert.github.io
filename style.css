@@ -27,11 +27,11 @@ img {
   float: right;
 }
 
-.profileAndPic {
-	
+.companyContainer {
+	vertical-align: baseline;
 }
 
 #positionTitle {
-	fong-weight: bold
+	font-weight: bold;
 }
 
