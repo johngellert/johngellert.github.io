@@ -34,8 +34,12 @@ img {
 	font-weight: bold;
 }
 
-.companyContainer {
-	
+.leftAlign {
+	float: left;	
+}
+
+.rightAlign {
+	floar: right;
 }
 
 #degree {
