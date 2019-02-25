@@ -17,7 +17,7 @@ h1 {
 img {
   	float: right;
 	border: 2px solid #999;
-	boarder-radius: 50%;	
+	border-radius: 50%;	
 }
 
 #container {
@@ -33,3 +33,6 @@ img {
 	font-weight: bold;
 }
 
+.companyContainer {
+	text-align: center;
+}
