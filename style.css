@@ -16,7 +16,7 @@ h1 {
 
 img {
   	float: right;
-	border: 25px solid #999;
+	border: 2px solid #999;
 	boarder-radius: 50%;	
 }
 
@@ -25,11 +25,9 @@ img {
   margin: 40px auto 60px;
 }
 
-.companyBlock{
-	
+#majot {
+	font-weight: bold;
 }
-
-
 
 #positionTitle {
 	font-weight: bold;
