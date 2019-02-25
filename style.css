@@ -15,7 +15,8 @@ h1 {
 }
 
 img {
-  float: right;
+  	float: right;
+	border-radius: 50%;
 }
 
 #container {
