@@ -17,8 +17,7 @@ h1 {
 img {
   	float: right;
 	border: 25px solid #999;
-	padding: 5px;
-	
+	boarder-radius: 50%;	
 }
 
 #container {
