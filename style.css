@@ -1,7 +1,7 @@
 body {
   font-family: Verdana, Sans-Serif;
-  background-image: url("paperbackground.png");
-  background-size: auto;
+	background-color: rgb(250, 249, 250);
+ 	background-size: auto;
 }
 
 h1 {
