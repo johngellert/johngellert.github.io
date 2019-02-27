@@ -9,6 +9,7 @@ h1 {
 }
 
 #contactInfo {
+	border-top: 2px solid #999;
 	text-align: center;
 	border-bottom: 2px solid #999;
 }
