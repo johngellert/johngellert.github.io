@@ -26,22 +26,16 @@ img {
   margin: 40px auto 60px;
 }
 
-#majot {
-	font-weight: bold;
-}
-
-#positionTitle {
-	font-weight: bold;
-}
-
-.leftAlign {
-	float: left;	
-}
-
-.rightAlign {
-	floar: right;
-}
-
 #degree {
 	font-weight: bold;
 }
+
+.date {
+	float: right;
+}
+
+.companyName {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
