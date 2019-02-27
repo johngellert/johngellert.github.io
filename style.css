@@ -25,6 +25,11 @@ img {
   margin: 40px auto 60px;
 }
 
+.nameContainer {
+	width: 100px;
+	
+}
+
 #degree {
 	font-weight: bold;
 }
