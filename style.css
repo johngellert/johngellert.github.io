@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana, Sans-Serif;
+  	font-family: Verdana, Sans-Serif;
 	background-color: rgb(250, 249, 250);
  	background-size: auto;
 }
@@ -26,7 +26,7 @@ img {
 }
 
 .nameContainer {
-	width: 200px;
+	width: 250px;
 	
 }
 
